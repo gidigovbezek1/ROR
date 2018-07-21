@@ -1,0 +1,1 @@
+Console.WriteLine("my teacher didnt say i need to print the good stuff but here you go:");
